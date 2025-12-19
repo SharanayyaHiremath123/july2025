@@ -1,0 +1,9 @@
+{
+	"name": "sharan-learning-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a4ce26b-6fce-473a-968a-426968ad29d2",
+		"tenantId": "5c763374-c2e9-48ac-936f-d366e4de1ee2"
+	}
+}
